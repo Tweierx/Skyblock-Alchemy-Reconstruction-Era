@@ -3,4 +3,4 @@ Alchemy Skyblock: A 1.20.1 Minecraft modpack where you start with just an oak tr
 
 
 
-去这里可以看莫前的魔改https://github.com/Tweierx/Skyblock-Alchemy-Reconstruction-Era/blob/main/kubejs.zip
+去这里可以看目前的魔改https://github.com/Tweierx/Skyblock-Alchemy-Reconstruction-Era/blob/main/kubejs.zip
